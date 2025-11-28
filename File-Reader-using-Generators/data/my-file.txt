@@ -1,0 +1,100 @@
+This line contains some generic text without the specific word.
+This is another line of simple text, line number two.
+Line 3 has been added to increase the count.
+A fourth line to continue the list.
+Line number five, simply more content.
+Sixth line, just continuing the pattern.
+Seventh line, building up to the final count.
+Line 8 of the sample file content.
+The ninth line is now complete.
+This is line ten of the hundred.
+Line 11, nearly 90 more to go.
+Line 12, just simple filler.
+Line 13, continuing the sequence.
+Line 14, more placeholder text.
+Line 15, adding another line.
+The sixteenth line in the document.
+Line 17, keeping the content simple.
+Line 18, another line of text.
+Line 19, just a plain statement.
+Line 20, making good Python progress.
+Line 21, filler content continues.
+Line 22, another sequential line.
+Line 23, almost a quarter way done.
+Line 24, text to fill the space.
+Line 25, one-fourth of the Python file.
+Line 26, the count continues.
+Line 27, simple text, no special words.
+Line 28, just a sequential entry.
+Line 29, building up the line count.
+Line 30, another set of ten lines completed.
+Line 31, generic content for the file.
+Line 32, more sequential text here.
+Line 33, filler content is added.
+Line 34, a simple sentence structure.
+Line 35, continuing the line pattern.
+Line 36, just some basic words.
+Line 37, adding another line to the count.
+Line 38, simple placeholder text.
+Line 39, almost to the next ten.
+Line 40, another ten lines done.
+Line 41, simple file text continues.
+Line 42, more lines are being written.
+Line 43, continuing the list.
+Line 44, text is added here.
+Line 45, filler content, nothing special.
+Line 46, another line for the count.
+Line 47, simple words to fill the space.
+Line 48, continuing the progression.
+Line 49, almost halfway there.
+Line 50, exactly half of the file is done.
+Line 51, starting the second half now.
+Line 52, the count proceeds.
+Line 53, more filler text for the document.
+Line 54, simple sequential numbering.
+Line 55, continuing the line additions.
+Line 56, another line of generic content.
+Line 57, text to increase the line count.
+Line 58, simple word arrangement.
+Line 59, almost sixty lines Python completed.
+Line 60, another landmark reached.
+Line 61, moving into the last forty lines.
+Line 62, continuing the simple text.
+Line 63, more placeholder lines.
+Line 64, simple structure for the content.
+Line 65, adding another line to the file.
+Line 66, filler text continues.
+Line 67, sequential entry in the list.
+Line 68, simple sentence, no unique words.
+Line 69, almost 70 lines now.
+Line 70, thirty more lines remain.
+Line 71, simple text for the line count.
+Line 72, more content is added.
+Line 73, continuing the list progression.
+Line 74, another line of generic text.
+Line 75, three-quarters of the way done.
+Line 76, simple placeholder content.
+Line 77, continuing the line sequence.
+Line 78, more words to fill the space.
+Line 79, almost eighty lines now.
+Line 80, twenty lines left to complete.
+Line 81, nearly at the end of the file.
+Line 82, more simple text lines.
+Line 83, filler content continues here.
+Line 84, another sequential line added.
+Line 85, continuing the basic structure.
+Line 86, text to increase the line number.
+Line 87, simple words for the document.
+Line 88, adding more lines consistently.
+Line 89, just over ten lines left.
+Line 90, last ten lines are approaching.
+Line 91, the count continues toward 100.
+Line 92, almost finished with the Python file.
+Line 93, more filler lines here.
+Line 94, simple sentence to add to the list.
+Line 95, five more lines until the end.
+Line 96, final approach to the total.
+Line 97, almost there, just a few more.
+Line 98, penultimate line before the last one.
+Line 99, this is the filler line right before the target word.
+Line 100, penultimate line before the last one hehe.
